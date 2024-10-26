@@ -1,1 +1,1 @@
-mysql:5.3.36
+mysql
