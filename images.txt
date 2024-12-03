@@ -2,3 +2,4 @@ mysql:5.7.41
 manondidi/mycat:1.6.7.5
 pangliang/rocketmq-console-ng
 foxiswho/rocketmq:server-4.5.1
+apache/rocketmq:5.3.1
