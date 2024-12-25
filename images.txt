@@ -4,3 +4,4 @@ pangliang/rocketmq-console-ng
 foxiswho/rocketmq:server-4.5.1
 apache/rocketmq:5.3.1
 apacherocketmq/rocketmq-dashboard:latest
+nacos/nacos-server:v2.4.3
