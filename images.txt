@@ -8,3 +8,4 @@ nacos/nacos-server:v2.4.3
 nginx:stable-perl
 minio/minio
 foxiswho/rocketmq:broker-4.5.1
+apache/rocketmq:latest
