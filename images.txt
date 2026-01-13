@@ -10,5 +10,4 @@ minio/minio
 foxiswho/rocketmq:broker-4.5.1
 apache/rocketmq:latest
 redis:latest
-#
 maven:3.9.9-openjdk-17
